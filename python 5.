@@ -1,0 +1,15 @@
+import math 
+N = 25
+result = math.sqrt(N)  
+print(" Square root of 25 is :", result)   
+M = 625  
+result = math.sqrt(M)  
+print(" Square root of 625 is :", result) 
+  
+P = 144 
+result = math.sqrt(P)   
+print(" Square root of 144 is :", result) 
+  
+S = 64  
+result = math.sqrt(S)  
+print(" Square root of 64 is :", result) 
